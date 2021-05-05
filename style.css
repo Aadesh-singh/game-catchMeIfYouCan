@@ -1,0 +1,21 @@
+body {
+   
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2rem;
+}
+
+#view{
+    width: 1250px;
+    height: 800px;
+    background: linear-gradient(270deg, white ,pink);
+    
+    }
+
+#box{
+    width: 100px;
+    height: 100px;
+    transform: translate(50%,50%);
+    top: -50%;
+    left: -50%;
+    background-color: rgba(252, 95, 121, 0.835);
+}
